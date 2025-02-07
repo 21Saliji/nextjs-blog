@@ -22,7 +22,7 @@ export default function Home({allPostsData}) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>[Hello, I'm Yankho (young-co
+        <p>[Hello, I'm Yankho aka Spongebob (young-co
           ). I am a software Developer]</p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
